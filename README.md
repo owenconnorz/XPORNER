@@ -1,6 +1,6 @@
 # XTube
 
-Porn site 
+video site 
 
 https://xtubevids.netlify.app/
 
